@@ -58,13 +58,13 @@ global.mess = (type, m, options = {}) => {
 global.options = {
 	public: true,
 	URI: "database.json", // use mongo or file json
-	owner: ["6288292024190", "62858156631709"],
+	owner: ["6285867503793", "6285867503793"],
 	pathCommand: 'commands'
 }
 global.Exif = {
 	packId: "https://instagram.com/cak_haho",
 	packName: `Sticker ini Dibuat Oleh :\nhttps://instagram.com/cak_haho\n\nPada :\n${Function.tanggal(new Date())} Pukul ${Function.jam(new Date())} WIB\n\nOleh :\nDika Ardnt.`,
-	packPublish: "Dika Ardnt.",
+	packPublish: "Lufzy Kull.",
 	packEmail: "dika.ardianta7@yahoo.com",
 	packWebsite: "https://instgaram.com/cak_haho",
 	androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
